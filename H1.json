@@ -1,15 +1,3 @@
 {
-    "nombre": "Juan Pérez",
-    "edad": 30,
-    "direccion": {
-        "calle": "Calle Falsa 123",
-        "ciudad": "Ciudad Ejemplo",
-        "pais": "Argentina"
-    },
-    "profesion": "Ingeniero",
-    "intereses": [
-        "lectura",
-        "fútbol",
-        "viajar"
-    ]
+"https://definicion.com/wp-content/uploads/2022/09/imagen-caracteristicas-1280x853.jpg.webp"
 }
