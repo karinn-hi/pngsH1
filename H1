@@ -1,6 +1,0 @@
-{
-    "titulo": "Mi primer texto",
-    "autor": "Juan Pérez",
-    "contenido": "Este es el contenido de mi primer texto en formato JSON.",
-    "fecha_creacion": "2024-07-30"
-}

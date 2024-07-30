@@ -1,0 +1,15 @@
+{
+    "nombre": "Juan Pérez",
+    "edad": 30,
+    "direccion": {
+        "calle": "Calle Falsa 123",
+        "ciudad": "Ciudad Ejemplo",
+        "pais": "Argentina"
+    },
+    "profesion": "Ingeniero",
+    "intereses": [
+        "lectura",
+        "fútbol",
+        "viajar"
+    ]
+}
