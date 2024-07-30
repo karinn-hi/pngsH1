@@ -1,4 +1,6 @@
-[
-"https://definicion.com/wp-content/uploads/2022/09/imagen-caracteristicas-1280x853.jpg.webp",
-  
-]
+{
+    "titulo": "Mi primer texto",
+    "autor": "Juan Pérez",
+    "contenido": "Este es el contenido de mi primer texto en formato JSON.",
+    "fecha_creacion": "2024-07-30"
+}
